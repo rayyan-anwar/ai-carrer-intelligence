@@ -1,0 +1,22 @@
+[
+  {
+    "id": "job-001",
+    "title": "ML Engineer",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "docker"
+    ]
+  },
+  {
+    "id": "job-002",
+    "title": "AI Research Engineer",
+    "skills": [
+      "python",
+      "deep learning",
+      "pytorch",
+      "nlp"
+    ]
+  }
+]
